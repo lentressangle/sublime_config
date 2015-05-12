@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"ColorPicker",
+		"Dictionaries",
+		"DuplicateSelections",
+		"GitGutter",
+		"HTML5",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SFTP",
+		"Twig",
+		"Xdebug Client"
+	]
+}
