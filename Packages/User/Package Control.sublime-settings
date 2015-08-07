@@ -4,18 +4,23 @@
 	],
 	"installed_packages":
 	[
+		"AutoDocstring",
 		"Color Highlighter",
 		"ColorPicker",
 		"Dictionaries",
+		"DocBlockr",
 		"DuplicateSelections",
+		"Fold Python",
 		"GitGutter",
 		"HTML5",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"nginx",
 		"Package Control",
+		"PHP-Twig",
 		"Phpcs",
 		"Text Pastry",
-		"Twig",
-		"Xdebug Client"
+		"Theme - Soda",
+		"Twig"
 	]
 }
